@@ -3,6 +3,7 @@ title: Introduction to Computer Vision for robotics
 ---
 
 # 画像処理導入ガイド
+
 ## 概要
 ---
 
@@ -11,6 +12,9 @@ title: Introduction to Computer Vision for robotics
 ## 画像処理の環境構築（OpenCV）
 ---
 
+本ガイドではロボティクス分野、特に組み込みシステムへの適用を想定しているため、Linuxマシンに対する環境構築を示すことにする。
+
+[Linuxマシンの画像処理環境構築](setup.html)
 
 ## ロボティクスへの適用例
 ---
